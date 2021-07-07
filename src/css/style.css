@@ -111,7 +111,6 @@ body, html {
     background-color: rgba(12, 11, 11, 0.8);
     color: white;
     padding: 7px;
-    border-radius: 5px;
     left: 150px;
     bottom: -10px;
 }
@@ -139,8 +138,8 @@ body, html {
     height: 290px;
     padding: 20px;
     border: 1px solid gray;
-    border-radius: 20px;
-    background-color: honeydew;
+
+    background-color: rgb(235, 33, 33);
 }
 
 .modal__title {
